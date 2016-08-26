@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VerificaIMC.View.Cadastro"
+             Title="Cadastrar">
+  <StackLayout Padding="25">
+    <Label Text="Verificação de IMC" FontSize="24" HorizontalTextAlignment="Center" />
+    <Label Text="Cálculo" FontSize="22" HorizontalTextAlignment="Center" />
+      <StackLayout>
+        <Label FontSize="20" Text="Peso (kg): "/>
+        <Entry x:Name="ValorDoPeso" FontSize="18" Placeholder="Exemplo: 72" />
+      </StackLayout>
+      <StackLayout>
+        <Label FontSize="20" Text="Altura: "/>
+        <Entry x:Name="ValorDaAltura" FontSize="18" Placeholder="Exemplo: 1.80" />
+      </StackLayout>
+      <Button Text="Calcular IMC" Clicked="CalcularIMC" />
+  </StackLayout>
+</ContentPage>

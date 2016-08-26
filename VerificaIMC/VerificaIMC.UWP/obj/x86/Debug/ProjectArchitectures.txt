@@ -1,0 +1,2 @@
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\VerificaIMC.UWP.csproj;x86
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\VerificaIMC.csproj;neutral

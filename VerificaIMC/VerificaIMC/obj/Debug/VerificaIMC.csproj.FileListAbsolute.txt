@@ -1,0 +1,12 @@
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\bin\Debug\VerificaIMC.dll
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\bin\Debug\VerificaIMC.pdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\bin\Debug\Xamarin.Forms.Core.dll
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\bin\Debug\Xamarin.Forms.Core.xml
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\obj\Debug\VerificaIMC.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\obj\Debug\VerificaIMC.Cadastro.xaml.g.cs
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\obj\Debug\VerificaIMC.Historico.xaml.g.cs
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\obj\Debug\VerificaIMC.dll
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\obj\Debug\VerificaIMC.pdb
