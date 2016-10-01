@@ -184,6 +184,7 @@ F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\D
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\VerificaIMC.UWP.csproj.GenerateResource.Cache
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\priconfig.xml
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\priconfig.xml.intermediate
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\layout.resfiles
@@ -197,4 +198,3 @@ F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\D
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\ProjectArchitectures.txt
-F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.UWP\obj\x86\Debug\VerificaIMC.UWP.csproj.GenerateResource.Cache

@@ -1,35 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="VerificaIMC.View.Historico"
-             Title="Histórico">
-  <StackLayout Padding="25">
-    <Label Text="Verificação de IMC" FontSize="24" HorizontalTextAlignment="Center" />
-    <Label Text="Histórico" FontSize="22" HorizontalTextAlignment="Center" />
-    <ListView ItemsSource="{Binding ListaIMC}" RowHeight="100" ItemTapped="ManipulaItem">
-      <ListView.ItemTemplate>
-        <DataTemplate>
-          <ViewCell>
-            <ViewCell.View>
-              <StackLayout>
-                <StackLayout Orientation="Horizontal">
-                  <Label Text="Data: " FontSize="16" />
-                  <Label Text="{Binding Data}" FontSize="16" />
-                </StackLayout>
-                <StackLayout Orientation="Horizontal">
-                  <Label Text="IMC: " FontSize="16" />
-                  <Label Text="{Binding ValorIMC}" FontSize="16" />
-                </StackLayout>
-                <StackLayout Orientation="Horizontal" Padding="0,0,0,10">
-                  <Label Text="Resultado: " FontSize="16" />
-                  <Label Text="{Binding Resultado}" FontSize="16" />
-                </StackLayout>
-              </StackLayout>
-            </ViewCell.View>
-          </ViewCell>
-        </DataTemplate>
-      </ListView.ItemTemplate>
-    </ListView>
-  </StackLayout>
+             x:Class="VerificaIMC.Historico" Title="Histórico">
+    <StackLayout Padding="25">
+        <Label Text="Verificação de IMC" FontSize="24" HorizontalTextAlignment="Center" />
+        <Label Text="Histórico" FontSize="22" HorizontalTextAlignment="Center" />
 
+        <ListView ItemsSource="{Binding ListaIMC}" RowHeight="100" ItemTapped="ManipulaItem">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Data: " FontSize="16" />
+                                    <Label Text="{Binding Data}" FontSize="16" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="IMC: " FontSize="16" />
+                                    <Label Text="{Binding ValorIMC}" FontSize="16" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal" Padding="0,0,0,10">
+                                    <Label Text="Resultado: " FontSize="16" />
+                                    <Label Text="{Binding Resultado}" FontSize="16" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
 </ContentPage>

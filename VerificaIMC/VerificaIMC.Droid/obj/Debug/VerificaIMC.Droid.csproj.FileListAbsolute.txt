@@ -14,7 +14,11 @@ F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Deb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Platform.dll
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\VerificaIMC.pdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\FormsViewGroup.pdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Core.pdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Core.xml
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\VerificaIMC.Droid.csprojResolveAssemblyReference.cache
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\VerificaIMC.Droid.dll
@@ -24,8 +28,15 @@ F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Deb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\res\drawable-hdpi\icon.png
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\res\drawable-xhdpi\icon.png
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\res\layout\tabbar.xml
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\res\layout\toolbar.xml
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\res\values\styles.xml
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\R.cs.flag
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\uploadflags.txt
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\FormsViewGroup.dll.mdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\VerificaIMC.Droid.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\VerificaIMC.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\Java.Interop.dll.mdb
@@ -39,6 +50,7 @@ F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Deb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\System.Xml.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
@@ -52,5 +64,8 @@ F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Deb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\VerificaIMC.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\VerificaIMC.Droid.dll.mdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\obj\Debug\VerificaIMC.Droid.dll.mdb
 F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.Droid\bin\Debug\VerificaIMC.Droid.dll.mdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VerificaIMC.Model
+namespace VerificaIMC
 {
     public class IMC
     {
@@ -10,7 +10,7 @@ namespace VerificaIMC.Model
         public double ValorIMC { get; set; }
         public string Resultado { get; set; }
 
-        public IMC( string data, double peso, double altura)
+        public IMC(string data, double peso, double altura)
         {
             this.Data = data;
             this.Peso = peso;
@@ -31,7 +31,7 @@ namespace VerificaIMC.Model
             {
                 result = "Muito abaixo do peso";
             }
-            else if ( (valorIMC >= 17) && (valorIMC <= 18.49))
+            else if ((valorIMC >= 17) && (valorIMC <= 18.49))
             {
                 result = "Abaixo do peso";
             }

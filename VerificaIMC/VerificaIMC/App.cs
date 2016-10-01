@@ -1,5 +1,4 @@
-﻿using VerificaIMC.View;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 
 namespace VerificaIMC
 {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace VerificaIMC.View {
+namespace VerificaIMC {
     using System;
     using Xamarin.Forms;
     using Xamarin.Forms.Xaml;

@@ -1,8 +1,7 @@
 ﻿using System.Collections.ObjectModel;
-using VerificaIMC.Model;
 using Xamarin.Forms;
 
-namespace VerificaIMC.View
+namespace VerificaIMC
 {
     public class TabPage : TabbedPage
     {

@@ -1,2 +1,0 @@
-F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC.WinPhone\VerificaIMC.WinPhone.csproj;neutral
-F:\Visual Studio 2015\Projects\VerificaIMC\VerificaIMC\VerificaIMC\VerificaIMC.csproj;neutral
